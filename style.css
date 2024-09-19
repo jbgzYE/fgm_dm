@@ -1,0 +1,13 @@
+#sliders {
+    margin: 20px;
+}
+
+.slider-container {
+    margin: 20px 0;
+}
+
+label {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin-right: 10px;
+}
